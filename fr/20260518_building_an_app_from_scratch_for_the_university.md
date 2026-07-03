@@ -6,6 +6,7 @@ pubDate: "2026-02-13"
 slug: "construire_une_app_de_zero_pour_l_universite"
 translationSlug: "building_an_app_from_scratch_for_the_university"
 ---
+![Eplouribousse](https://images.hmae.fr/logo-eplouribousse.png)
 
 Ce projet est arrivé au bon moment dans ma carrière. Après m'être formé au métier de développeur web via la formation _Le Wagon_ pendant six mois, et en parallèle de manière autodidacte, je n'avais jusque-là travaillé que sur des projets personnels.  
 Je n'avais jamais eu l'occasion de me confronter à un projet "réel": une vraie gestion de projet, en équipe, avec des enjeux concrets, des utilisateurs finaux et une méthodologie de travail clairement définie.

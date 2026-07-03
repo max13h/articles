@@ -6,6 +6,7 @@ pubDate: "2026-02-13"
 slug: "building_an_app_from_scratch_for_the_university"
 translationSlug: "construire_une_app_de_zero_pour_l_universite"
 ---
+![Eplouribousse](https://images.hmae.fr/logo-eplouribousse.png)
 
 This project came at the right time in my career. After training as a web developer through the six-month _Le Wagon_ bootcamp, and simultaneously teaching myself on the side, I had only ever worked on personal projects.
 I had never had the opportunity to tackle a "real" project: genuine project management, working in a team, with concrete stakes, end users, and a clearly defined work methodology.

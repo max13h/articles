@@ -1,0 +1,27 @@
+{
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:toggle-bullet-list",
+    "editor:delete-paragraph",
+    "editor:insert-embed",
+    "editor:attach-file",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:configure-toolbar",
+    "editor:cut",
+    "editor:copy",
+    "editor:paste"
+  ],
+  "trashOption": "local",
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "focusNewTab": true
+}

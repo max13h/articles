@@ -1,0 +1,8 @@
+{
+  "accentColor": "#0c7e0e",
+  "showRibbon": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "calendar"
+  ]
+}

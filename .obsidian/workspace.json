@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "2792c77ab4a79a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d8b62ec75117e44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a148a584ef4ca95a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "en/20260518_building_an_app_from_scratch_for_the_university.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260518_building_an_app_from_scratch_for_the_university"
+            }
+          },
+          {
+            "id": "02699966ccc6ef1c",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "en/20260518_building_an_app_from_scratch_for_the_university.md",
+                "bFile": "en/20260518_building_an_app_from_scratch_for_the_university.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 20260518_building_an_app_from_scratch_for_the_university  (Working Tree)"
+            }
+          },
+          {
+            "id": "6a897a6cc768ca6e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "en/20260518_building_an_app_from_scratch_for_the_university.md",
+                "bFile": "en/20260518_building_an_app_from_scratch_for_the_university.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 20260518_building_an_app_from_scratch_for_the_university  (Working Tree)"
+            }
+          },
+          {
+            "id": "088e25c2b10a9158",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: app.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "f4d17a6101a53875",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "en/20260518_building_an_app_from_scratch_for_the_university.md",
+                "bFile": "en/20260518_building_an_app_from_scratch_for_the_university.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 20260518_building_an_app_from_scratch_for_the_university  (Working Tree)"
+            }
+          },
+          {
+            "id": "bfc4cef406396a04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zBin/Blog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blog"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c70befd4e8a6e41e",
+    "type": "split",
+    "children": [
+      {
+        "id": "03b4f22134f4f6eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b71b9c411dc21281",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4b8d4b666f0295e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c7d9294d8aa66de6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b07194a8f3b39d2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9ab6fe8be3fcc04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85b3bcdd98f471cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - TODO LIST.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1 - TODO LIST"
+            }
+          },
+          {
+            "id": "bb5bb79839b2093b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "zBin/Workflow d'écriture d'article de blog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Workflow d'écriture d'article de blog"
+            }
+          },
+          {
+            "id": "e3fed521f36fecf8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4585223a6a0ebc64",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 503.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f4d17a6101a53875",
+  "lastOpenFiles": [
+    "en/20260518_building_an_app_from_scratch_for_the_university.md",
+    "zBin/Blog.md",
+    "1 - TODO LIST.md",
+    "zBin/Mission ZEV.md",
+    "daily/2026-07-02.md",
+    "2 - PROJETS.base",
+    "4 - DAILY.base",
+    "daily/2026-07-01.md",
+    "zBin/Le voyage de Chiiro.md",
+    "daily/2026-06-30.md",
+    "zBin/Générer des vidéos rapidement.md",
+    "daily/2026-06-25.md",
+    "zBin/templates/daily - Template.md",
+    "daily/2026-06-29.md",
+    "zBin/Albin.md",
+    "3 - IDÉES.base",
+    "zBin/Le potentiel érotique de ma femme - David Foenkinos.md",
+    "1-TODO LIST.md",
+    "zBin/Orga des menus.md",
+    "202606241245.md",
+    "RabbitMQ.md",
+    "Untitled.md",
+    "zBin/bases/Resources.base",
+    "zBin/Graphor - modeling application - draw graph for softwares.md",
+    "202606221052.md",
+    "202606221051.md",
+    "2- PROJETS & IDÉES.md",
+    "3 - SPORT.md",
+    "zBin/bases/Exercices de muscu.base",
+    "zBin/Scapular Wall Slides.md",
+    "zBin/Prone Lateral Raises.md",
+    "zBin/templates/sport/bases",
+    "zBin/bases/Art.base",
+    "zBin/bases/Projets en cours.base",
+    "zBin/bases/Ideas.base",
+    "zBin/bases/Projets.base"
+  ]
+}

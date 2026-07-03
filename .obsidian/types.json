@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "waiting_for": "multitext",
+    "category": "multitext",
+    "need_gym": "checkbox",
+    "projects": "multitext",
+    "summary": "multitext",
+    "books": "multitext",
+    "day_ended": "checkbox"
+  }
+}
